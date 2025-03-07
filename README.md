@@ -85,4 +85,6 @@ MIT
 
 ## Credits
 
-This tool was created to make it easier to convert academic papers and other documents to markdown format for improved accessibility and text analysis.
+This tool was created to make it easier to convert academic papers and other documents to markdown format for improved accessibility and text analysis. You can cite it as: 
+
+Maggi, Giovanni (2025). zotero-ocr. Observatory on Information and Democracy. Available at: https://github.com/giomagg/zotero-ocr/
