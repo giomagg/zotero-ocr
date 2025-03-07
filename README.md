@@ -34,7 +34,7 @@ pip install -e .
 ### Basic Usage
 
 ```bash
-mistral-ocr --library path/to/zotero_library.csv --output path/to/output_directory --api-key your_mistral_api_key
+zotero-ocr --library path/to/zotero_library.csv --output path/to/output_directory --api-key your_mistral_api_key
 ```
 
 ### Command Line Arguments
@@ -43,10 +43,10 @@ mistral-ocr --library path/to/zotero_library.csv --output path/to/output_directo
 - `-o`, `--output`: Directory to save output files (required)
 - `-k`, `--api-key`: Mistral API key (required)
 
-### Example
+#### Example
 
 ```bash
-mistral-ocr -l ~/Desktop/zotero_library.csv -o ~/Desktop/ocr_output -k "your-mistral-api-key"
+zotero-ocr -l ~/Desktop/zotero_library.csv -o ~/Desktop/ocr_output -k "your-mistral-api-key"
 ```
 
 ## Preparing Your Zotero Library
